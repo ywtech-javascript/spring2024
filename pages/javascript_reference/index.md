@@ -249,18 +249,14 @@ const nameOfFunction = (parameters) => {
 };
 ```
 
-#### Avoid Older Syntax
-While you will see the syntax below in many web posts, avoid if possible (to maintain consistency with newer versions): 
+#### Alternative  Syntax
+You will also see the syntax below in many web posts: 
+
 ```js
 // Old JavaScript syntax (avoid)
 function addTwoNums(num1, num2) {
    	return num1 + num2;
 }
-
-// Old JavaScript syntax (avoid)
-var document.querySelector(‘button’).onclick = function(num1, num2) {
-   	return num1 + num2;
-};
 ```
 
 ### 2. Terminology
