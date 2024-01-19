@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "The Building Blocks of Programming"
+title: "DOM manipulation and the building blocks of programming"
 type: module
 draft: 0
 num: 2
@@ -8,6 +8,7 @@ due_date: 2024-01-25
 ---
 
 ## Readings
+Please complete the readings before our regular meeting. They will help you absorb the material more easily.
 
 * <a href="https://www.digitalocean.com/community/tutorials/introduction-to-the-dom" target="_blank">Intro to the DOM</a>. <em>Digital Ocean</em> 
 * <a href="https://www.digitalocean.com/community/tutorials/understanding-the-dom-tree-and-nodes" target="_blank">Understanding the DOM Tree and Nodes</a>. <em>Digital Ocean</em> 
@@ -17,3 +18,9 @@ due_date: 2024-01-25
 * <a href="https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom" target="_blank">How to Modify Attributes, Classes, and Styles in the DOM</a>.<em>Digital Ocean</em>
 * <a href="https://www.digitalocean.com/community/tutorials/understanding-events-in-javascript" target="_blank">Understanding Events in JavaScript</a>.
 * <a href="https://www.digitalocean.com/community/tutorials/understanding-template-literals-in-javascript" target="_blank">Understanding Template Literals in JavaScript</a>. <em>Digital Ocean</em>
+
+## Slides
+Slides will be posted before our meeting.
+
+## Activities
+Activities will be posted before our meeting.

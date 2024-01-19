@@ -3,11 +3,11 @@ layout: assignment-two-column
 title: DOM manipulation
 type: tutorial
 abbreviation: Lab 1
-draft: 0
+draft: 1
 points: 6
 num: 1
-start_date: 2024-01-19
-due_date: 2024-01-25
+start_date: 2024-01-25
+due_date: 2024-02-01
 ---
 
 ## Readings / References
