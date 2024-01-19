@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Student Repositories
+title: Student Portfolios
 permalink: /repos
 ---
 
