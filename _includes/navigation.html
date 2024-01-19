@@ -1,16 +1,13 @@
 <nav>
     <ul>
-        <!-- <li {% if page.url=="/overview/" %}class="active" {% endif %}><a href="{{site.baseurl}}/overview/">Overview</a>
-        </li> -->
         <li {% if page.url=="/" or page.url contains "/schedule/" %}class="active" {% endif %}><a
                 href="{{site.baseurl}}/">Schedule</a></li>
         <li {% if page.url contains "/assignments/" %}class="active" {% endif %}><a
                 href="{{site.baseurl}}/assignments/">Assignments</a></li>
-        <!-- <li {% if page.url contains "project" %}class="active" {% endif %}><a
-                href="{{site.baseurl}}/final-project/">Final Project</a></li> -->
         <li {% if page.url contains "reference" %}class="active" {% endif %}><a
                 href="{{site.baseurl}}/design-reference/">Web Reference</a></li>
         <li><a href="https://docs.google.com/document/d/1ky-fp6AS1yoE9dE4Dlax2goRhpoVDFPBJXHqUXdUnRI/edit?usp=sharing"
                 target="_blank">Videos</a></li>
+        <li><a href="{{site.baseurl}}/repos/" target="_blank">Portfolios</a></li>
     </ul>
 </nav>

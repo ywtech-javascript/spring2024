@@ -16,6 +16,9 @@ Welcome to the 8-week JavaScript course!
 1. <a href="https://docs.google.com/document/d/1V0B8H0Whi4D3wxPAyBMKpa4aI_JvGgcVhyc83TxmRy4/edit?usp=sharing" target="_blank">Set up your development environment</a>
 2. [Set up GitHub and GitHub Pages](../activities/github-activity)
 
+## Video Recording
+* <a href="https://northwestern.zoom.us/rec/share/10IQ71hrk6aKayd44Wx-b2XSMCHWbtW39bGlFufWqpzUsbIzIWd7sxfJXJuGfq-7.5SDnzuROy5lwILbZ" target="_blank">Zoom Recording</a> (1/18/24)
+
 ## For Next Week
 * If you didn't get your GitHub pages published, please come to office hours this Saturday to complete it by next Thursday
 * Complete the [assigned readings](topic02) -- located under Topic 2 -- before next Thursday.
