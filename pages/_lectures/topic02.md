@@ -24,7 +24,14 @@ If you're short on time, still try to read these short articles:
 <!-- 1. <a href="https://www.digitalocean.com/community/tutorials/understanding-template-literals-in-javascript" target="_blank">Understanding Template Literals in JavaScript</a>. <em>Digital Ocean</em> -->
 
 ## Slides
-Slides will be posted before our meeting.
+Slides will be posted before class.
+
+<!-- 1. <a href="https://docs.google.com/presentation/d/1oPiS7JHKLj0x52H22dapBU5hJmx6no4SdZ3t_-MHtsk/edit?usp=sharing" target="_blank">Manipulating the DOM</a> -->
 
 ## Exercises
-Activities will be posted before our meeting.
+
+DOM Manipulation Exercises:
+1. <a href="../course-files/exercises/week02.zip" target="_blank">Set up your development environment</a>
+2. Same code on CodePen (for quick access):
+    * <a href="https://codepen.io/vanwars/pen/oNVeJeX" target="_blank">Exercise 1</a>: Changing Style Properties
+    * <a href="https://codepen.io/vanwars/pen/BabdvvY?editors=1000" target="_blank">Exercise 2</a>: Changing HTML Attributes
