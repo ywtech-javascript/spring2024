@@ -12,7 +12,7 @@ Welcome to the 8-week JavaScript course!
 ## Slides
 1. <a href="https://docs.google.com/presentation/d/181MQbWXo-qbd2hEX6SI1-FGhdjhKtyv1yvhV0_bPCBk/edit?usp=sharing" target="_blank">Course Introduction</a>
 
-## Activities
+## Exercises
 1. <a href="https://docs.google.com/document/d/1V0B8H0Whi4D3wxPAyBMKpa4aI_JvGgcVhyc83TxmRy4/edit?usp=sharing" target="_blank">Set up your development environment</a>
 2. [Set up GitHub and GitHub Pages](../activities/github-activity)
 

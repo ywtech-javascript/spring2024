@@ -21,10 +21,10 @@ If you're short on time, still try to read these short articles:
 1. <a href="https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom" target="_blank">How to Traverse the DOM</a>. <em>Digital Ocean</em>
 1. <a href="https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom" target="_blank">How to Make Changes to the DOM</a>. <em>Digital Ocean</em>
 1. <a href="https://www.digitalocean.com/community/tutorials/understanding-events-in-javascript" target="_blank">Understanding Events in JavaScript</a>.
-1. <a href="https://www.digitalocean.com/community/tutorials/understanding-template-literals-in-javascript" target="_blank">Understanding Template Literals in JavaScript</a>. <em>Digital Ocean</em>
+<!-- 1. <a href="https://www.digitalocean.com/community/tutorials/understanding-template-literals-in-javascript" target="_blank">Understanding Template Literals in JavaScript</a>. <em>Digital Ocean</em> -->
 
 ## Slides
 Slides will be posted before our meeting.
 
-## Activities
+## Exercises
 Activities will be posted before our meeting.
