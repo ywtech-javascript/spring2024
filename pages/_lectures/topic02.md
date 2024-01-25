@@ -29,9 +29,9 @@ Slides will be posted before class.
 <!-- 1. <a href="https://docs.google.com/presentation/d/1oPiS7JHKLj0x52H22dapBU5hJmx6no4SdZ3t_-MHtsk/edit?usp=sharing" target="_blank">Manipulating the DOM</a> -->
 
 ## Exercises
-
-DOM Manipulation Exercises. You can either (1) download them or (2) tinker with them on CodePen:
-1. <a href="../course-files/exercises/week02.zip" target="_blank">Download DOM Exercise Files</a>
-2. Same code on CodePen (for quick access):
-    * <a href="https://codepen.io/vanwars/pen/oNVeJeX" target="_blank">Exercise 1</a>: Changing Style Properties
-    * <a href="https://codepen.io/vanwars/pen/BabdvvY?editors=1000" target="_blank">Exercise 2</a>: Changing HTML Attributes
+1. <a href=" ../course-files/activities/dom-tester/index.html">DOM Tester</a>
+1. DOM Manipulation Exercises. You can either
+    1. <a href="../course-files/exercises/week02.zip" target="_blank">Download the exercise files</a>
+    1. Tinker with the files on CodePen (for quick access):
+        * <a href="https://codepen.io/vanwars/pen/oNVeJeX" target="_blank">Exercise 1</a>: Changing Style Properties
+        * <a href="https://codepen.io/vanwars/pen/BabdvvY?editors=1000" target="_blank">Exercise 2</a>: Changing HTML Attributes

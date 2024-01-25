@@ -3,13 +3,14 @@
 
 <head>
     <title>DOM Demo</title>
+    <link rel="stylesheet" href="page.css">
     <link rel="stylesheet" href="style.css">
     <script src="main.js" defer></script>
 </head>
 
 <body>
-    <h1>Tester</h1>
-    <main>
+    <header>
+        <a href="/spring2024/assignments/lab01" target="_blank">Cheatsheet</a>
         <form onsubmit="updateScreen(event)">
             <section id="formula">
                 <span>document.querySelector("</span>
@@ -20,55 +21,64 @@
                 <span>";</span>
                 <button>Add</button>
             </section>
-            <section id="code"></section>
         </form>
-
-        <aside>
-            <h2>Your Tasks</h2>
+    </header>
+    <main>
+        <section class="output">
+            <h2>Instructions</h2>
             <ul>
                 <li>Change the first section's background color to red.</li>
                 <li>Change the second section's text color to blue.</li>
                 <li>Change the third section's inner HTML to "Hello world!"</li>
                 <li>Change the fourth section's background color to pink.</li>
             </ul>
-        </aside>
-
-        <section class="output">
             <div>
                 <h1>HTML</h1>
                 <pre>
 &lt;div class=&quot;container&quot;&gt;
-    &lt;section id=&quot;section1&quot; class=&quot;box&quot;&gt;Section 1&lt;/section&gt;
-    &lt;section id=&quot;section2&quot; class=&quot;box&quot;&gt;Section 2&lt;/section&gt;
-    &lt;section id=&quot;section3&quot; class=&quot;box&quot;&gt;Section 3&lt;/section&gt;
-    &lt;section id=&quot;section4&quot; class=&quot;box&quot;&gt;Section 4&lt;/section&gt;
+    &lt;section id=&quot;section1&quot; class=&quot;box&quot;&gt;
+        Section 1
+    &lt;/section&gt;
+    &lt;section id=&quot;section2&quot; class=&quot;box&quot;&gt;
+        Section 2
+    &lt;/section&gt;
+    &lt;section id=&quot;section3&quot; class=&quot;box&quot;&gt;
+        Section 3
+    &lt;/section&gt;
+    &lt;section id=&quot;section4&quot; class=&quot;box&quot;&gt;
+        Section 4
+    &lt;/section&gt;
 &lt;/div&gt;
-                </pre>
-                <h1>CSS</h1>
+            </pre>
+                <h1>JavaScript</h1>
+                <pre id="js"></pre>
+                <!-- <h1>CSS</h1>
                 <pre>
 .container {
     display: flex;
+    flex-wrap: wrap;
     gap: 20px;
 }
 
 .box {
-    width: 100%;
-    height: 200px;
     display: flex;
+    width: 50%;
+    max-width: 200px;
+    height: 200px;
     border: solid 1px #000;
     justify-content: center;
     align-items: center;
 }
                 </pre>
-            </div>
-
-            <div class="container">
-                <section id="section1" class="box">Section 1</section>
-                <section id="section2" class="box">Section 2</section>
-                <section id="section3" class="box">Section 3</section>
-                <section id="section4" class="box">Section 4</section>
-            </div>
+            </div> -->
         </section>
+
+        <div class="container">
+            <section id="section1" class="box">Section 1</section>
+            <section id="section2" class="box">Section 2</section>
+            <section id="section3" class="box">Section 3</section>
+            <section id="section4" class="box">Section 4</section>
+        </div>
     </main>
 
 </body>

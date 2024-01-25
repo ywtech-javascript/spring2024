@@ -29,11 +29,8 @@ function updateScreen(ev) {
     }
     const executionString = `document.querySelector("${selector}").${prop} = "${val}";`;
     document
-        .querySelector("#code")
-        .insertAdjacentHTML(
-            "beforeend",
-            `<div class="item">${executionString}</div>`
-        );
+        .querySelector("#js")
+        .insertAdjacentHTML("beforeend", `${executionString}\n`);
     try {
         eval(executionString);
     } catch (ex) {
