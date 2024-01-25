@@ -30,8 +30,8 @@ Slides will be posted before class.
 
 ## Exercises
 
-DOM Manipulation Exercises:
-1. <a href="../course-files/exercises/week02.zip" target="_blank">Set up your development environment</a>
+DOM Manipulation Exercises. You can either (1) download them or (2) tinker with them on CodePen:
+1. <a href="../course-files/exercises/week02.zip" target="_blank">Download DOM Exercise Files</a>
 2. Same code on CodePen (for quick access):
     * <a href="https://codepen.io/vanwars/pen/oNVeJeX" target="_blank">Exercise 1</a>: Changing Style Properties
     * <a href="https://codepen.io/vanwars/pen/BabdvvY?editors=1000" target="_blank">Exercise 2</a>: Changing HTML Attributes
