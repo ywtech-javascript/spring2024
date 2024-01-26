@@ -24,9 +24,7 @@ If you're short on time, still try to read these short articles:
 <!-- 1. <a href="https://www.digitalocean.com/community/tutorials/understanding-template-literals-in-javascript" target="_blank">Understanding Template Literals in JavaScript</a>. <em>Digital Ocean</em> -->
 
 ## Slides
-Slides will be posted before class.
-
-<!-- 1. <a href="https://docs.google.com/presentation/d/1oPiS7JHKLj0x52H22dapBU5hJmx6no4SdZ3t_-MHtsk/edit?usp=sharing" target="_blank">Manipulating the DOM</a> -->
+1. <a href="https://docs.google.com/presentation/d/1oPiS7JHKLj0x52H22dapBU5hJmx6no4SdZ3t_-MHtsk/edit?usp=sharing" target="_blank">Manipulating the DOM</a>
 
 ## Exercises
 1. <a href=" ../course-files/activities/dom-tester/index.html">DOM Tester</a>
