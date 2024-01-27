@@ -14,7 +14,7 @@ due_date: 2024-02-01
 > ## Video Walkthrough
 > Sarah has created some tutorial videos to each of the labs, located in <a href="https://drive.google.com/drive/u/1/folders/1EEQOniozUDDfGqlNC1n6YjA_kh1wocm2" target="_blank">this Google Drive folder</a>. Quick links:
 >
-> 1. <a href="https://drive.google.com/file/d/1NsUThEhASxXW343RD19o7UkGLsIlZZvR/view?usp=drive_link" target="_blank">Set up</a>
+> 1. <a href="https://drive.google.com/file/d/1SBx9YwssG7Lb8dqoYq6tr5kEvTwlewVw/view?usp=drive_link" target="_blank">Set up</a>
 > 1. <a href="https://drive.google.com/file/d/1LvYk0Sl5FBJxZl4h7jl2d2Xt_TlAum2f/view?usp=drive_link" target="_blank">Font Switcher: CSS Concepts</a>
 > 1. <a href="https://drive.google.com/file/d/1SLJfwgCAP4D8oZbDu1R7axsyo4TJpDFC/view?usp=drive_link" target="_blank">Font Switcher: JavaScript Concepts</a>
 > 1. <a href="https://drive.google.com/file/d/1yKvEWvusGsiZXiWehjr0XqabXsqjTluI/view?usp=drive_link" target="_blank">Theme Switcher: CSS Concepts</a>
