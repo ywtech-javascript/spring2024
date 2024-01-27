@@ -10,6 +10,10 @@ start_date: 2024-01-25
 due_date: 2024-02-01
 ---
 
+{:.blockquote-no-margin}
+> ## Video Walkthrough
+> Sarah has created some tutorial videos to each of the labs, located in <a href="https://drive.google.com/drive/u/1/folders/1EEQOniozUDDfGqlNC1n6YjA_kh1wocm2" target="_blank">this Google Drive folder</a>.
+
 ## Readings / References
 * <a href="https://www.digitalocean.com/community/tutorials/understanding-events-in-javascript" target="_blank">Understanding Events in JavaScript</a>.
 * [Cheatsheet](#cheatsheet) (below)
@@ -50,7 +54,7 @@ I have created a cheatsheet (below) with examples of different selector methods 
 | Property | Example |
 |--|--|
 | width | document.querySelector("div").style.width = "200px"; |
-| height | document.querySelector("div").style.width = "200px"; |
+| height | document.querySelector("div").style.height = "200px"; |
 | background-color | document.querySelector("div").style.backgroundColor = "hotpink"; |
 | border-width | document.querySelector("div").style.borderWidth = "5px"; |
 | padding | document.querySelector("div").style.padding = "10px"; |
@@ -86,11 +90,12 @@ Next, open `01-font-switcher/index.js` and, modify the body of the `makeBigger` 
 ### 2. Theme Switcher
 Another way to make your site more accessible is to create a "high-contrast" stylesheet or CSS class. For this exercise, please do the following:
 
-1. Open `02-theme-switcher/index.js` and attach a click event handler to each of the four of the buttons in the nav bar. 
-2. Each event handler should modify the class of the `body` tag to match the theme of the button that was clicked (just like we did in class for Lecture 10). 
+1. Open `02-theme-switcher/index.js` and take a look at the 4 functions.
+1. Then open `02-theme-switcher/index.html` and attach a click event handler to each of the four of the buttons in the nav bar. 
+1. Each event handler should modify the class of the `body` tag to match the theme of the button that was clicked (just like we did in class for Lecture 10). 
     * The available theme classes are: `ocean`, `desert` and `high-contrast`. To see the themes, open the `style.css` file and scroll to the bottom.
-3. If the `default` button is clicked, just unset the class on the body tag.
-4. [Optional] If you have time, try creating your own theme in the `../style.css` file and creating another button so that when you click on the new button, your theme shows up.
+1. If the `default` button is clicked, just unset the class on the body tag.
+1. [Optional] If you have time, try creating your own theme in the `../style.css` file and creating another button so that when you click on the new button, your theme shows up.
 
 When you're done, your web page should look like this:
 
@@ -116,7 +121,7 @@ When you're done, your web page should look like this:
 
 
 ## Update your homepage to link to your tutorial06
-Please update your homepage (the index.html page you made in Lab 3) so that it links to your completed `Lab 1` web pages. See Sarah's <a href="https://vanwars.github.io/ywtech-javascript" target="_blank">example homepage</a> (format the links however you like).
+Please update your homepage (the index.html page you made on the first day) so that it links to your completed `Lab 1` web pages. See Sarah's <a href="https://vanwars.github.io/ywtech-javascript" target="_blank">example homepage</a> (format the links however you like).
 
 ## Checklist
 Please make sure that you have completed the following:
@@ -128,9 +133,3 @@ Please make sure that you have completed the following:
 * Your homepage links to your completed "font size adjuster" and "theme switcher" pages.
 * Everything committed to GitHub (stage, commit, and sync).
 
-## What to Submit
-**Please Read Carefully:** To submit Lab 1, please paste the following links into the Moodle under the Lab 1 submission section:
-
-1. A link to your **homepage** on GitHub pages, which should link to the "font size adjuster" and "theme switcher" tasks you completed (using relative paths). See <a href="https://vanwars.github.io/ywtech-javascript" target="_blank">Sarah's Homepage</a> for an example.
-    * Note that your homepage should also link to previous tutorials and classwork you have done.
-2. A link to your GitHub **code repository** (where your code files are stored).

@@ -26,6 +26,10 @@ If you're short on time, still try to read these short articles:
 ## Slides
 1. <a href="https://docs.google.com/presentation/d/1oPiS7JHKLj0x52H22dapBU5hJmx6no4SdZ3t_-MHtsk/edit?usp=sharing" target="_blank">Manipulating the DOM</a>
 
+## Video Recording
+* <a href="https://northwestern.zoom.us/rec/share/QJJMRrFN9ESa_irgaS9uxE8WFxK1Bt2ePrBpSCX2NLb9QWnE4gGKHR5LifRwcsle.9-JErZI3mGyMu3Cr" target="_blank">Zoom Recording</a> (1/25/24)
+
+
 ## Exercises
 1. <a href=" ../course-files/activities/dom-tester/index.html">DOM Tester</a>
 1. DOM Manipulation Exercises. You can either
