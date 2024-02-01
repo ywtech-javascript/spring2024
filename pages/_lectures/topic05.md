@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Lists, Objects, & Conditionals"
+title: "Loops"
 type: module
 num: 5
 draft: 1

@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "DOM manipulation and the building blocks of programming"
+title: "Manipulating the Document Object Model Using JavaScript"
 type: module
 draft: 0
 num: 2

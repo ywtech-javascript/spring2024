@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Templates & Widgets"
+title: "Lists, Objects, & Conditionals"
 type: module
 draft: 1
 num: 4

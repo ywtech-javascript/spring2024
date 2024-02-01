@@ -6,20 +6,34 @@
     <link rel="stylesheet" href="page.css">
     <link rel="stylesheet" href="style.css">
     <script src="main.js" defer></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.min.css">
+    <!-- <link rel="stylesheet" href="dark.css"> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+
 </head>
 
 <body>
     <header>
-        <a href="/spring2024/assignments/lab01" target="_blank">Cheatsheet</a>
+        <nav>
+            <a href="/spring2024/assignments/lab01" target="_blank">Cheatsheet</a>
+        </nav>
         <form onsubmit="updateScreen(event)">
             <section id="formula">
-                <span>document.querySelector("</span>
-                <input id="selector" type="text" placeholder="selector" />
-                <span>").</span>
-                <input id="thing-to-change" type="text" placeholder="attribute or style property" />
-                <span> = "</span><input id="value" type="text" placeholder="new value" />
-                <span>";</span>
-                <button>Add</button>
+                <div>
+                    <span>document.querySelector("</span>
+                    <input id="selector" type="text" placeholder="selector" />
+                    <span>")</span>
+                </div>
+                <div>
+                    <span>.</span><input id="thing-to-change" type="text" placeholder="attribute or style property" />
+                    <span> = </span>
+                </div>
+                <div>
+                    <span>"</span>
+                    <input id="value" type="text" placeholder="new value" />
+                    <span>";</span>
+                </div>
+                <button class="button">Add</button>
             </section>
         </form>
     </header>
@@ -30,56 +44,41 @@
                 <li>Change the first section's background color to red.</li>
                 <li>Change the second section's text color to blue.</li>
                 <li>Change the third section's inner HTML to "Hello world!"</li>
-                <li>Change the fourth section's background color to pink.</li>
+                <li>Change the second and third image to display a bird.</li>
+                <li>Change each image's class from "pic" to "frame".</li>
             </ul>
             <div>
                 <h1>HTML</h1>
-                <pre>
+                <pre id="code">
+                    <code class="language-html">
 &lt;div class=&quot;container&quot;&gt;
-    &lt;section id=&quot;section1&quot; class=&quot;box&quot;&gt;
-        Section 1
-    &lt;/section&gt;
-    &lt;section id=&quot;section2&quot; class=&quot;box&quot;&gt;
-        Section 2
-    &lt;/section&gt;
-    &lt;section id=&quot;section3&quot; class=&quot;box&quot;&gt;
-        Section 3
-    &lt;/section&gt;
-    &lt;section id=&quot;section4&quot; class=&quot;box&quot;&gt;
-        Section 4
-    &lt;/section&gt;
+    &lt;section id=&quot;section1&quot; class=&quot;box&quot;&gt;Section 1&lt;/section&gt;
+    &lt;section id=&quot;section2&quot; class=&quot;box&quot;&gt;Section 2&lt;/section&gt;
+    &lt;section id=&quot;section3&quot; class=&quot;box&quot;&gt;Section 3&lt;/section&gt;
+    &lt;img id=&quot;img1&quot; class=&quot;pic&quot; src=&quot;images/bird.jpg&quot /&gt;
+    &lt;img id=&quot;img2&quot; class=&quot;pic&quot; src=&quot;images/cat.jpg&quot /&gt;
+    &lt;img id=&quot;img3&quot; class=&quot;pic&quot; src=&quot;images/dog.jpg&quot /&gt;
 &lt;/div&gt;
-            </pre>
-                <h1>JavaScript</h1>
-                <pre id="js"></pre>
-                <!-- <h1>CSS</h1>
-                <pre>
-.container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-}
-
-.box {
-    display: flex;
-    width: 50%;
-    max-width: 200px;
-    height: 200px;
-    border: solid 1px #000;
-    justify-content: center;
-    align-items: center;
-}
+                    </code>
                 </pre>
-            </div> -->
+                <h1>JavaScript</h1>
+                <pre><code class="language-js" id="js"></code></pre>
+
         </section>
 
         <div class="container">
             <section id="section1" class="box">Section 1</section>
             <section id="section2" class="box">Section 2</section>
             <section id="section3" class="box">Section 3</section>
-            <section id="section4" class="box">Section 4</section>
+            <img id="img1" class="box" src="images/bird.jpg" />
+            <img id="img2" class="box" src="images/cat.jpg" />
+            <img id="img3" class="box" src="images/dog.jpg" />
         </div>
     </main>
+
+
+
+    <script>hljs.highlightAll();</script>
 
 </body>
 
