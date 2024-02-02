@@ -71,7 +71,7 @@ I have created a cheatsheet (below) with examples of different selector methods 
 
 <a href="/spring2024/course-files/labs/lab01.zip" class="nu-button">Download Lab 1 <i class="fas fa-download"></i></a> 
 
-Please download the tutorial01.zip file, unzip it, and move the tutorials folder inside of your csci185 folder. Then complete the tasks below.
+Please download the `lab01.zip` file, unzip it, and move the `labs` folder inside of your `ywtech-javascript` folder. Then complete the tasks below.
 
 ### 1. Font Size Adjuster
 Open font-switcher/index.html in VS Code, and note the HTML tags. Also note that within the header tag there is a script tag that links to your JavaScript file:
@@ -127,7 +127,7 @@ When you're done, your web page should look like this:
 <img class="large frame" src="/spring2024/assets/images/labs/lab01/dyslexia.gif" />
 
 
-## Update your homepage to link to your tutorial06
+## Update your homepage to link to your lab01
 Please update your homepage (the index.html page you made on the first day) so that it links to your completed `Lab 1` web pages. See Sarah's <a href="https://vanwars.github.io/ywtech-javascript" target="_blank">example homepage</a> (format the links however you like).
 
 ## Checklist

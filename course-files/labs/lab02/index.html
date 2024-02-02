@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Exercise 1</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="index.js" defer type="text/javascript"></script>
+</head>
+
+<body>
+    <h1>Instructions</h1>
+    <p>Write a program that can add, subtract, multiply, and divide the two numbers
+        shown below. The answer should be output to the gray box:</p>
+    <ul>
+        <li>When the user clicks the "plus" button, add the numbers.</li>
+        <li>When the user clicks the "minus" button, subtract the numbers.</li>
+        <li>When the user clicks the "plus" button, multiply the numbers.</li>
+        <li>When the user clicks the "plus" button, divide the numbers.</li>
+    </ul>
+    <input id="num1" type="text" placeholder="number 1" />
+    <input id="num2" type="text" placeholder="number 2" />
+
+    <button id="add" onclick="addNumbers()"> + </button>
+    <!-- don't forget to attach the click event handlers to the other buttons! -->
+    <button id="subtract"> - </button>
+    <button id="multiply"> &#215; </button>
+    <button id="divide"> &#247; </button>
+
+    <div id="answer"></div>
+
+    <h2>Optional Enhancements</h2>
+    <ol>
+        <li>Add a clear button that clears out the text boxes and the gray box.</li>
+        <li>When you divide the two numbers, see if you can only display the whole number and the first two decimal
+            places.</li>
+        <li>Ask ChatGPT to make a calculator program for you using HTML, CSS, and JavaScript. See if you can get the
+            code to work (suggestion: make a new folder for your new version of your calculator).</li>
+    </ol>
+</body>
+
+</html>

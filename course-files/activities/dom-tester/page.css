@@ -3,9 +3,8 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-
 header {
-    padding: 0 30px;
+    padding: 20px 30px;
     min-height: 130px;
     background-color: #CCC;
     display: flex;
@@ -115,9 +114,6 @@ pre {
 }
 
 @media screen and (max-width: 1100px) {
-    header {
-        height: 200px;
-    }
 
     #formula {
         grid-template-columns: repeat(1, auto);
