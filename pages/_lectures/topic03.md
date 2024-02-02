@@ -25,6 +25,9 @@ due_date: 2024-02-01
 ## Slides
 1. <a href="https://docs.google.com/presentation/d/1t_MEZV4NhLqenpg9lwYvx-WrjLivs5lW5DAsZQVEQGk/edit?usp=sharing" target="_blank">The Building Blocks of Programming: Part I</a>
 
+## Video Recording
+* <a href="https://northwestern.zoom.us/rec/share/1C3pdiOmKvu-Yjxm9pzJrC4ybC7yonEaRdo_4beQzEtkUGHuoQi_M1hQcOjOL91I.Lgd2MMcBjM3Qqhqm" target="_blank">Zoom Recording</a> (2/1/24)
+
 
 ## Exercises
 See the slides.
