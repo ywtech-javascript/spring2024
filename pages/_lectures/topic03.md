@@ -23,8 +23,7 @@ due_date: 2024-02-01
 * <a href="https://www.digitalocean.com/community/tutorials/how-to-do-math-in-javascript-with-operators" target="_blank">How to do math in JavaScript with Operators</a>
 
 ## Slides
-https://docs.google.com/presentation/d/1t_MEZV4NhLqenpg9lwYvx-WrjLivs5lW5DAsZQVEQGk/edit?usp=sharing
-1. <a href="https://docs.google.com/presentation/d/1oPiS7JHKLj0x52H22dapBU5hJmx6no4SdZ3t_-MHtsk/edit?usp=sharing" target="_blank">The Building Blocks of Programming: Part I</a>
+1. <a href="https://docs.google.com/presentation/d/1t_MEZV4NhLqenpg9lwYvx-WrjLivs5lW5DAsZQVEQGk/edit?usp=sharing" target="_blank">The Building Blocks of Programming: Part I</a>
 
 
 ## Exercises

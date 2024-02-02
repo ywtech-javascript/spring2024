@@ -1,7 +1,7 @@
 ---
 layout: assignment-two-column
 title: DOM manipulation
-type: Lab
+type: lab
 abbreviation: Lab 1
 draft: 0
 points: 6

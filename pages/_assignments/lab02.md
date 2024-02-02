@@ -1,7 +1,7 @@
 ---
 layout: assignment-two-column
 title: Make an calculator
-type: tutorial
+type: lab
 abbreviation: Lab 2
 draft: 0
 points: 6
