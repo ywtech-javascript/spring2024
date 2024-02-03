@@ -29,9 +29,9 @@ due_date: 2024-02-08
 > Sarah has created some tutorial videos for this lab, located in <a href="https://drive.google.com/drive/folders/1CIP8Z983INutQmLRY6IotoHVX-7CzMlQ?usp=drive_link" target="_blank">this Google Drive folder</a>. Quick links:
 >
 > 1. <a href="https://drive.google.com/file/d/1c3IoYYrJNZcWAVoGkf2z555c8OKLsHld/view?usp=drive_link" target="_blank">Set up</a>
-> 1. <a href="https://drive.google.com/file/d/1H4L_nQe8sFjQlqwbufe1Ufpu4pyo8zO0/view?usp=drive_link" target="_blank">Addition</a>
+> 1. <a href="https://drive.google.com/file/d/1H4L_nQe8sFjQlqwbufe1Ufpu4pyo8zO0/view?usp=drive_link" target="_blank">Addition</a> (most important)
 > 1. <a href="https://drive.google.com/file/d/12nDDzwz4GG2I1eF-VBEyMb1iamhr1xbw/view?usp=drive_link" target="_blank">Subtraction, Multiplication, Division, Clear Button</a>
-> 1. <a href="https://drive.google.com/file/d/1JWjKk6i4Gv0iqokf-7CHa8idi8YzAASa/view?usp=drive_link" target="_blank">ChatGPT Demo</a>
+> 1. <a href="https://drive.google.com/file/d/1JWjKk6i4Gv0iqokf-7CHa8idi8YzAASa/view?usp=drive_link" target="_blank">ChatGPT Demo</a> (optional, but recommended)
 > 1. <a href="https://drive.google.com/file/d/1pe_BLhKDIvHgjjyK7VnivkjOjcHoX6-Z/view?usp=drive_link" target="_blank">Linking to your homepage</a>
 
 
