@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Data & APIs: Part I"
+title: "Templates & Widgets"
 type: module
 num: 7
 draft: 1

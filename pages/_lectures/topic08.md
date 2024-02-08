@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Data & APIs: Part II"
+title: "Data & APIs"
 type: module
 num: 8
 draft: 1
