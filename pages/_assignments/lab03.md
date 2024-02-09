@@ -6,8 +6,8 @@ abbreviation: Lab 3
 draft: 1
 points: 6
 num: 3
-start_date: 2024-02-08
-due_date: 2024-02-15
+start_date: 2024-02-15
+due_date: 2024-02-22
 ---
 
 <style>
