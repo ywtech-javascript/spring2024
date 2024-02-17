@@ -8,7 +8,7 @@ due_date: 2024-02-15
 ---
 
 ## Video Walkthroughs
-Sarah has created some tutorial videos for each of the exercises <a href="https://drive.google.com/drive/folders/1CIP8Z983INutQmLRY6IotoHVX-7CzMlQ?usp=drive_link" target="_blank">this Google Drive folder</a>. Please download the exercise files if you haven't already (scroll to the bottom of this page), and complete the following
+Sarah has created some tutorial videos for each of the exercises <a href="https://drive.google.com/drive/u/1/folders/1FVG10Z2y6rxYCRAwDnHCLkLX9L9-MDAw" target="_blank">this Google Drive folder</a>. Please download the exercise files if you haven't already (scroll to the bottom of this page), and complete the following
 
 ### By Thursday 2/22
 * Pick a Number (`02-pick-a-number`)
