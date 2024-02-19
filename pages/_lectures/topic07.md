@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Templates & Widgets"
+title: "Loops"
 type: module
 num: 7
 draft: 1
