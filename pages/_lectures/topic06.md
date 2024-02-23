@@ -12,7 +12,8 @@ due_date: 2024-02-22
 1. <a href="https://docs.google.com/presentation/d/16UipOR5RaUkQjZGT-PQSDPdZXDoiZlK7DqE1LLTEkHE/edit?usp=sharing" target="_blank">Conditional Statements Continued</a>
 
 ## 2. Class Zoom Recording
-TBD
+* <a href="https://northwestern.zoom.us/rec/share/6CMGCBzUgCDObKkjreW1PVT8jFbOiKkmRwydphIrq6YlDSCIOCt7uitKJ-44CXI-.V4o7p9jK7KdT_6IP" target="_blank">Zoom Recording</a> (2/12/24)
+
 
 ## 3. Exercises
 We will be working through the exercises from [Week 5](topic05) (last week).
