@@ -65,11 +65,7 @@ function movePlayer(ev) {
     drawPlayer(x, y, width);
 }
 
-function mousePressed() {
-    x = mouseX;
-    y = mouseY;
-    drawPlayer();
-}
+
 
 // This is another way of adding an event listener in JavaScript:
 document.addEventListener("keydown", movePlayer);

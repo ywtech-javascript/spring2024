@@ -3,11 +3,11 @@ layout: assignment-two-column
 title: Make an online drawing program
 type: tutorial
 abbreviation: Lab 3
-draft: 1
+draft: 0
 points: 6
 num: 3
-start_date: 2024-02-15
-due_date: 2024-02-22
+start_date: 2024-02-22
+due_date: 2024-02-29
 ---
 
 <style>
@@ -44,7 +44,7 @@ When you're done, you will have created something that looks like the video show
 ## Set Up
 Please download the `tutorial08.zip` zip file, extract it, and move the `tutorial08` folder inside of your `csci185/tutorials` folder.
 
-<a href="/spring2024/course-files/labs/lab03.zip" class="nu-button">Download Tutorial 8 <i class="fas fa-download"></i></a> 
+<a href="/spring2024/course-files/labs/lab03.zip" class="nu-button">Download Lab 3 <i class="fas fa-download"></i></a> 
 
 When you're done, please examine the starter files before beginning the assignment.
 
