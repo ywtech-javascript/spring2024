@@ -1,7 +1,7 @@
 ---
 layout: assignment-two-column
 title: Make an online drawing program
-type: tutorial
+type: lab
 abbreviation: Lab 3
 draft: 0
 points: 6
