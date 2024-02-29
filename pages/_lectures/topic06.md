@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "More Conditionals + Intro to Lists"
+title: "More Conditionals"
 type: module
 num: 6
 draft: 0

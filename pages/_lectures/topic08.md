@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Data & APIs"
+title: "Loops, Data, & APIs"
 type: module
 num: 8
 draft: 1

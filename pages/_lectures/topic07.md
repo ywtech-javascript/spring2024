@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Loops"
+title: "Templates, Lists, and Objects"
 type: module
 num: 7
 draft: 0
@@ -13,18 +13,30 @@ due_date: 2024-02-29
 * <a href="https://www.digitalocean.com/community/tutorials/understanding-arrays-in-javascript" target="_blank">Understanding Arrays</a>
 * <a href="https://www.digitalocean.com/community/tutorials/understanding-objects-in-javascript" target="_blank">Understanding Objects</a>
 * <a href="https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-mutator-methods" target="_blank">How to use array methods.</a>
+{:.compact}
 
 ### 1.2. Loops
 * <a href="https://www.digitalocean.com/community/tutorials/using-while-loops-and-do-while-loops-in-javascript" target="_blank">Using While Loops and Do...While Loops in JavaScript</a>. <em>Digital Ocean</em>  
 * <a href="https://www.digitalocean.com/community/tutorials/for-loops-for-of-loops-and-for-in-loops-in-javascript" target="_blank">For Loops, For...Of Loops and For...In Loops in JavaScript</a>. <em>Digital Ocean</em>  
+{:.compact}
 
-## 2. Slides
-Slides will be posted before class
+## 2. Agenda
+1. Coding review (if / else + functions)
+2. Introduction to [Lab 3](../assignments/lab03): Drawing Program
+3. Breakout rooms
+4. New concepts:
+    * Templates
+    * Lists
+    * Objects
+    {:.compact}
+{:.compact}
 
-## 3. Class Zoom Recording
+## 3. Slides
+1. <a href="https://docs.google.com/presentation/d/1pOIB0i3t71dO-tzjPkbSYiPWMD-hFu40-0RYD-cJUIw/edit#slide=id.g1f1e31e99bf_0_0" target="_blank">Templates, Objects, & Lists</a>
+
+## 4. Class Zoom Recording
 TBD
 
 
-
-<!-- ## Inspiration
-* <a href="http://drawing.garden" target="_blank">http://drawing.garden</a> -->
+## 5. Exercises
+1. <a href="../course-files/exercises/week07.zip" target="_blank">Download the exercise files</a>
