@@ -1,23 +1,32 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
+    <head>
+        <title>DOM Demo</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="https://cdn.jsdelivr.net/npm/p5@1.4.2/lib/p5.js" defer></script>
+        <script src="main.js" defer></script>
+    </head>
+    <body>
+        <main>
+            <aside>
+                <label for="color">Color:</label>
+                <input type="text" id="color" value="red" />
 
-<head>
-    <title>Simple Calculator</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="index.js" defer type="text/javascript"></script>
-</head>
+                <label for="size">Size:</label>
+                <input type="text" id="size" value="40" />
 
-<body>
-    <h1>Simple Calculator</h1>
-    <input id="num1" type="text" placeholder="number 1" />
-    <input id="num2" type="text" placeholder="number 2" />
+                <label for="shape">Shape:</label>
+                <select id="shape">
+                    <option value="circle">Circle</option>
+                    <option value="square">Square</option>
+                    <option value="triangle">Triangle</option>
+                </select>
 
-    <button id="add" onclick="addNumbers()"> + </button>
-    <button id="subtract" onclick="subtractNumbers()"> - </button>
-    <button id="multiply" onclick="multiplyNumbers()"> &#215; </button>
-    <button id="divide" onclick="divideNumbers()"> &#247; </button>
+            </aside>
 
-    <div id="answer"></div>
-</body>
-
+            <section id="canvas-holder"> 
+                <!-- A canvas element will be inserted here (from main.js) -->
+            </section>
+        </main>
+    
+    </body>
 </html>
