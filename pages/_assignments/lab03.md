@@ -6,8 +6,8 @@ abbreviation: Lab 3
 draft: 0
 points: 6
 num: 3
-start_date: 2024-02-22
-due_date: 2024-02-29
+start_date: 2024-03-01
+due_date: 2024-03-08
 ---
 
 <style>
@@ -22,6 +22,16 @@ due_date: 2024-02-29
     }
 
 </style>
+
+{:.blockquote-no-margin}
+> ## Video Walkthrough
+> Sarah has created some tutorial videos for this lab, located in <a href="https://drive.google.com/drive/folders/1CIP8Z983INutQmLRY6IotoHVX-7CzMlQ?usp=drive_link" target="_blank">this Google Drive folder</a>. Quick links:
+>
+> 1. <a href="https://drive.google.com/file/d/1Svh0Aeby7T3QoO57AVo7ZT2Q9VvnJ4DO/view?usp=sharing" target="_blank">Set up</a>
+> 1. <a href="https://drive.google.com/file/d/1ARZBM-MgDEdj8RrLEglhhH52hT18rrm1/view?usp=sharing" target="_blank">Color</a>
+> 1. <a href="https://drive.google.com/file/d/16SgwLRI37CxtIpDL8DpMcKvVgr1NGvhR/view?usp=sharing" target="_blank">Size</a>
+> 1. <a href="https://drive.google.com/file/d/13Vx-33Un5vFpBK2cm_iB4JfXLfZ0VTUe/view?usp=sharing" target="_blank">Shapes: Circle and Square</a>
+> 1. <a href="https://drive.google.com/file/d/1xTIzI5_x5B-7akJKXyfzC2QCpgRp905M/view?usp=sharing" target="_blank">Shapes: Triangle</a>
 
 ## Background Readings / References
 * <a href="https://www.digitalocean.com/community/tutorials/how-to-write-conditional-statements-in-javascript" target="_blank">How To Write Conditional Statements in JavaScript</a>. <em>Digital Ocean</em>  

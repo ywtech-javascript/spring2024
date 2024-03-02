@@ -35,7 +35,7 @@ due_date: 2024-02-29
 1. <a href="https://docs.google.com/presentation/d/1pOIB0i3t71dO-tzjPkbSYiPWMD-hFu40-0RYD-cJUIw/edit#slide=id.g1f1e31e99bf_0_0" target="_blank">Templates, Objects, & Lists</a>
 
 ## 4. Class Zoom Recording
-TBD
+<a href="https://northwestern.zoom.us/rec/share/tKE59B5GQdPIg-8kIBAwGZIEMBRplJuTpbbmoFLED_p-VR-88j9_-JKsY7htbghD.A-Wyl4XxfXRv-kPt" target="_blank">Zoom Recording</a> (2/29/24)
 
 
 ## 5. Exercises
