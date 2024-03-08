@@ -31,7 +31,7 @@ due_date: 2024-03-07
 1. <a href="https://docs.google.com/presentation/d/1G3fRLCHPv4Yw5hhS1_xILMAnbHE90-e0wNfl9uxQjro/edit?usp=sharing" target="_blank">Templates, Lists, Objects, Intro to Loops</a>
 
 ## 4. Class Zoom Recording
-Video will be posted after class.
+<a href="https://northwestern.zoom.us/rec/share/MONYYf4llJp4ZIcyA-xLopqFF-T92f153uFxxxUdXOjxwxxnCStye8OS9G-oWQDN.9MQacjmlIFkX2Ymh" target="_blank">Zoom Recording</a> (3/7/24)
 
 
 ## 5. Exercises
