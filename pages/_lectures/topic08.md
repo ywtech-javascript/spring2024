@@ -28,7 +28,7 @@ due_date: 2024-03-07
 {:.compact}
 
 ## 3. Slides
-1. <a href="https://docs.google.com/presentation/d/1pOIB0i3t71dO-tzjPkbSYiPWMD-hFu40-0RYD-cJUIw/edit#slide=id.g1f1e31e99bf_0_0" target="_blank">Templates, Lists, Objects, Intro to Loops</a>
+1. <a href="https://docs.google.com/presentation/d/1G3fRLCHPv4Yw5hhS1_xILMAnbHE90-e0wNfl9uxQjro/edit?usp=sharing" target="_blank">Templates, Lists, Objects, Intro to Loops</a>
 
 ## 4. Class Zoom Recording
 Video will be posted after class.
